@@ -152,7 +152,7 @@ export default class Main {
       const settings = astro.userData.settings;
 
       if (settings.rotatingtOnItsOwnAxis) {
-        astro.rotation.y += settings.axiRotationSpeed;
+        astro.rotation.y += settings.axisRotationSpeed;
       }
 
       if (settings.rotatingOnItsOrbit) {
