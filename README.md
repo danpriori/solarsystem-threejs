@@ -1,7 +1,8 @@
 
 ## Description
 
-Small project of our solar system with the Sun, Earth and Moon made with ThreeJS with webpack and ES6
+Small project of our solar system with the Sun, Earth and Moon made with ThreeJS, Webpack and ES6. 
+In addition, it uses GLTF to load the Astros from a Model and with an easy configuration set to let it easier to add more Astros/Planets to enrich the solar system.
 
 ## Live Demo
 
